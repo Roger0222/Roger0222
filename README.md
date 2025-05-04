@@ -1,6 +1,6 @@
 <!-- Animated Header Banner -->
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGtlNXAzcnVrNnUwOHpiYjJ5OWFjdzBjb2hhZGswcjVzMHk3M2J5aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ggK04fdPVARRtH8w7G/giphy.gif" alt="Animated Coding Banner" width="100%">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGtlNXAzcnVrNnUwOHpiYjJ5OWFjdzBjb2hhZGswcjVzMHk3M2J5aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ggK04fdPVARRtH8w7G/giphy.gif" alt="Animated Coding Banner" width="80%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Roger</h1>
